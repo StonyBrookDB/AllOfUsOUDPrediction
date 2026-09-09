@@ -1,0 +1,13 @@
+*.csv
+*.parquet
+*.pkl
+*.npy
+*.feather
+data/
+clean_data/
+feature/
+outputs/
+risk_scores/
+.ipynb_checkpoints/
+__pycache__/
+*.log
