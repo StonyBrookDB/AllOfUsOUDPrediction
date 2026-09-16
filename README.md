@@ -73,7 +73,7 @@ information domain at 24 months. Survey availability differed by OUD status
 
 ## Citation
 
-Manuscript under review (AMIA 2026). Citation details will be added upon
+Manuscript under review (AMIA 2027 amplify). Citation details will be added upon
 acceptance.
 
 ## Acknowledgments
